@@ -4,7 +4,8 @@
   "main": "gatsby-config.js",
   "license": "MIT",
   "dependencies": {
-    "gatsby": "^2.3.4"
+    "gatsby": "^2.3.4",
+    "theme": "*"
   },
   "devDependencies": {
     "gatsby": "^2.3.4",
